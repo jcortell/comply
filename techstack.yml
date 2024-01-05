@@ -1,7 +1,8 @@
 repo_name: jcortell/comply
 report_id: 571757c43ee96f49aa6bf9d4781615aa
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-09T15:20:14+00:00'
+timestamp: '2024-01-05T08:27:25+00:00'
 requested_by: jcortell
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/jcortell/comply
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/jcortell/comply
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -34,6 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jcortell/comply
   detection_source: Repo Metadata
 - name: Netlify
   description: Build, deploy and host your static site or app with a drag and drop
@@ -44,6 +48,7 @@ tools:
   category: Application Utilities
   sub_category: Static Web Hosting
   image_url: https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg
+  detection_source_url: https://github.com/jcortell/comply/blob/master/netlify.toml
   detection_source: netlify.toml
   last_updated_by: Mehdi Rejraji
   last_updated_on: 2019-06-05 04:59:54.000000000 Z
@@ -53,6 +58,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/jcortell/comply/blob/master/static/admin/index.html
   detection_source: static/admin/index.html
   last_updated_by: Mehdi Rejraji
   last_updated_on: 2019-05-10 13:55:01.000000000 Z
@@ -65,4 +71,5 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/jcortell/comply
   detection_source: Repo Metadata
